@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Freire
 - 👀 I’m interested in ...Realizar minha transição de carreira
-- 🌱 I’m currently learning ...   HTML,CSS, JavaScript e REACT Js
+- 🌱 I’m currently learning ...   HTML,CSS, JavaScript
 - 💞️ I’m looking to collaborate on ... Por equanto em projetos pessoais, mas aberto a novos projetos
 - 📫 How to reach me ...https://www.linkedin.com/in/yago-freire-b53b8a207/
 
